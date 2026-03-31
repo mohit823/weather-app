@@ -7,7 +7,7 @@ This app fetches real-time weather data using a weather API and displays it base
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge\&logo=netlify)](https://weatherapp82352.netlify.app/)
+[![Live Demo] (https://weather-app-peach-two-28.vercel.app/)
 
 👉 **Try it here:**
 https://weatherapp82352.netlify.app/
